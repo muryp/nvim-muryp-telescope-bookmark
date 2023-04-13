@@ -17,5 +17,6 @@
         "/data/data/com.termux/files/usr/share/nvim/runtime/pack/dist/opt/matchit",
         "/data/data/com.termux/files/home/.config/nvim/after",
         "${3rd}/luassert/library"
-    ]
+    ],
+    "workspace.checkThirdParty": false
 }
