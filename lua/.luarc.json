@@ -1,0 +1,21 @@
+{
+    "workspace.library": [
+        "/data/data/com.termux/files/home/.config/nvim",
+        "/data/data/com.termux/files/home/.local/share/nvim/site",
+        "/data/data/com.termux/files/home/.local/share/nvim/site/pack/packer/start/diffview.nvim",
+        "/data/data/com.termux/files/home/.local/share/nvim/site/pack/packer/start/git-conflict.nvim",
+        "/data/data/com.termux/files/home/.local/share/nvim/site/pack/packer/start/impatient.nvim",
+        "/data/data/com.termux/files/home/.local/share/nvim/site/pack/packer/start/neoformat",
+        "/data/data/com.termux/files/home/.local/share/nvim/site/pack/packer/start/nui.nvim",
+        "/data/data/com.termux/files/home/.local/share/nvim/site/pack/packer/start/nvim-muryp-snippet-collection",
+        "/data/data/com.termux/files/home/.local/share/nvim/site/pack/packer/start/packer.nvim",
+        "/data/data/com.termux/files/home/.local/share/nvim/site/pack/packer/start/plenary.nvim",
+        "/data/data/com.termux/files/home/.local/share/nvim/site/pack/packer/start/tokyonight.nvim",
+        "/data/data/com.termux/files/home/.local/share/nvim/site/pack/packer/start/which-key.nvim",
+        "/data/data/com.termux/files/home/.local/share/nvim/site/pack/packer/opt/nvim-lspconfig",
+        "/data/data/com.termux/files/usr/share/nvim/runtime",
+        "/data/data/com.termux/files/usr/share/nvim/runtime/pack/dist/opt/matchit",
+        "/data/data/com.termux/files/home/.config/nvim/after",
+        "${3rd}/luassert/library"
+    ]
+}
