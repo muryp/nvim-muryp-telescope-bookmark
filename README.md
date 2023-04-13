@@ -1,8 +1,14 @@
+Language : English | [Indonesia](./README-ID.md)
+
+[![License: Apache](https://img.shields.io/badge/License-Apache-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![Neovim version](https://img.shields.io/badge/Neovim-0.8.x-green.svg)
+![Lua version](https://img.shields.io/badge/Lua-5.4-yellow.svg)
 [![Repo Size](https://img.shields.io/github/repo-size/muryp/nvim-muryp-telescope-bookmark)](https://github.com/muryp/nvim-muryp-telescope-bookmark)
 [![Downloads](https://img.shields.io/github/downloads/muryp/nvim-muryp-telescope-bookmark/total)](https://github.com/muryp/nvim-muryp-telescope-bookmark/releases)
 [![Latest Release](https://img.shields.io/github/release/muryp/nvim-muryp-telescope-bookmark)](https://github.com/muryp/nvim-muryp-telescope-bookmark/releases/latest)
 [![Last Commit](https://img.shields.io/github/last-commit/muryp/nvim-muryp-telescope-bookmark)](https://github.com/muryp/nvim-muryp-telescope-bookmark/commits/master)
 [![Open Issues](https://img.shields.io/github/issues/muryp/nvim-muryp-telescope-bookmark)](https://github.com/muryp/nvim-muryp-telescope-bookmark/issues)
+
 # nvim-muryp-telescope-bookmark
 nvim-muryp-telescope-bookmark is a plugin for the Neovim text editor that allows users to search for folders or files that have been bookmarked previously, with the help of the Telescope plugin. This plugin enables users to save a list of bookmarked folders or files that are frequently used, and then perform quick and efficient searches using the Telescope search feature.
 ## Instalasi
@@ -37,3 +43,6 @@ After configuring, you can use the nvim-muryp-telescope-bookmark plugin as follo
 - Finally, choose the command to execute and `enter`.
 ## Lisensi
 The nvim-muryp-telescope-bookmark plugin is distributed under the **Apache License 2.0**. Please refer to the `LICENSE` file for more information about this license.
+
+## Contributing
+We greatly appreciate contributions from anyone who wants to help improve this repo. Please see the `CONTRIBUTE.md` file for more information on how to contribute to this repo. Thank you for your contribution!

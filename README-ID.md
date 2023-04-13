@@ -1,3 +1,8 @@
+Language : [English](./README.md) | Indonesia
+
+[![License: Apache](https://img.shields.io/badge/License-Apache-blue.svg)](https://opensource.org/licenses/Apache-2.0)
+![Neovim version](https://img.shields.io/badge/Neovim-0.8.x-green.svg)
+![Lua version](https://img.shields.io/badge/Lua-5.4-yellow.svg)
 [![Repo Size](https://img.shields.io/github/repo-size/muryp/nvim-muryp-telescope-bookmark)](https://github.com/muryp/nvim-muryp-telescope-bookmark)
 [![Downloads](https://img.shields.io/github/downloads/muryp/nvim-muryp-telescope-bookmark/total)](https://github.com/muryp/nvim-muryp-telescope-bookmark/releases)
 [![Latest Release](https://img.shields.io/github/release/muryp/nvim-muryp-telescope-bookmark)](https://github.com/muryp/nvim-muryp-telescope-bookmark/releases/latest)
@@ -43,3 +48,5 @@ Setelah melakukan konfigurasi, Anda dapat menggunakan plugin nvim-muryp-telescop
 
 ## Lisensi
 Plugin nvim-muryp-telescope-bookmark didistribusikan dengan lisensi Apache License 2.0. Silakan merujuk ke berkas `LICENSE` untuk informasi lebih lanjut mengenai lisensi ini.
+## Kontribusi
+Kami sangat menghargai kontribusi dari siapa saja yang ingin membantu meningkatkan repo ini. Silahkan lihat berkas `CONTRIBUTE.md` untuk informasi lebih lanjut tentang cara berkontribusi ke repo ini. Terima kasih atas kontribusinya!
