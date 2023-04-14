@@ -43,7 +43,7 @@ After configuring, you can use the nvim-muryp-telescope-bookmark plugin as follo
 - Finally, choose the command to execute and `enter`.
 
 ## Lisensi
-Plugin `nvim-muryp-git` didistribusikan dengan lisensi `Apache License 2.0`. Silakan merujuk ke berkas `LICENSE` untuk informasi lebih lanjut mengenai lisensi ini.
+The `nvim-muryp-git` plugin is distributed under the **Apache License 2.0**. Please refer to the `LICENSE` file for more information about this license.
 
-## Kontribusi
-Kami mengharigai kontribusi anda baik berupa `issue` maupun `memperbaiki kode`. Silahkan baca berkas `CONTRIBUTE-ID.md` untuk informasi lebih lanjut.
+## Contributing
+We greatly appreciate contributions from anyone can produce **issue** or **maintaine code** to help this repo. Please read `CONTRIBUTE.md` for more info.
