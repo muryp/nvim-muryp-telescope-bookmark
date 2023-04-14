@@ -47,6 +47,6 @@ Setelah melakukan konfigurasi, Anda dapat menggunakan plugin nvim-muryp-telescop
 - terakhir, pilih cmd yang akan di eksekusi
 
 ## Lisensi
-Plugin nvim-muryp-telescope-bookmark didistribusikan dengan lisensi Apache License 2.0. Silakan merujuk ke berkas `LICENSE` untuk informasi lebih lanjut mengenai lisensi ini.
+Plugin nvim-muryp-telescope-bookmark didistribusikan dengan lisensi **Apache License 2.0**. Silakan merujuk ke berkas `LICENSE` untuk informasi lebih lanjut mengenai lisensi ini.
 ## Kontribusi
 Kami sangat menghargai kontribusi dari siapa saja yang ingin membantu meningkatkan repo ini. Silahkan lihat berkas `CONTRIBUTE.md` untuk informasi lebih lanjut tentang cara berkontribusi ke repo ini. Terima kasih atas kontribusinya!

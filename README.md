@@ -41,8 +41,9 @@ After configuring, you can use the nvim-muryp-telescope-bookmark plugin as follo
 - Press `enter` to proceed.
 - Press `ctrl-back` to go back in insert mode, or `back` in normal mode.
 - Finally, choose the command to execute and `enter`.
-## Lisensi
-The nvim-muryp-telescope-bookmark plugin is distributed under the **Apache License 2.0**. Please refer to the `LICENSE` file for more information about this license.
 
-## Contributing
-We greatly appreciate contributions from anyone who wants to help improve this repo. Please see the `CONTRIBUTE.md` file for more information on how to contribute to this repo. Thank you for your contribution!
+## Lisensi
+Plugin `nvim-muryp-git` didistribusikan dengan lisensi `Apache License 2.0`. Silakan merujuk ke berkas `LICENSE` untuk informasi lebih lanjut mengenai lisensi ini.
+
+## Kontribusi
+Kami mengharigai kontribusi anda baik berupa `issue` maupun `memperbaiki kode`. Silahkan baca berkas `CONTRIBUTE-ID.md` untuk informasi lebih lanjut.
