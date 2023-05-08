@@ -7,7 +7,7 @@ Terima kasih telah tertarik untuk berkontribusi pada proyek kami! Kami sangat me
 3. gunakan video jika tidak tahu untuk menjelaskan secara detail
 
 ## Pedoman Commit msg
-1. Buat deskripsi yang jelas pada commit Anda dengan mengikuti format:
+1. Buat deskripsi yang jelas pada commit Anda dengan mengikuti format gp:
    * `feat: [nama fitur]`: untuk penambahan fitur baru
    * `fix: [nama bug yang diperbaiki]`: untuk perbaikan bug
    * `docs: [deskripsi perubahan pada dokumentasi]`: untuk perubahan pada dokumentasi
